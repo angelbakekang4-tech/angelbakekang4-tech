@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Kenta**
+# 👋 Hi, I'm **Riku**
 
 ### 🇯🇵 Flutter App Developer
 
